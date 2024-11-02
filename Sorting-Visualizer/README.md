@@ -9,11 +9,20 @@ A JavaScript web application for visualizing various sorting algorithms. Built f
 - [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
 
-![sorting_process](https://user-images.githubusercontent.com/55011564/125393471-a1f23680-e3c5-11eb-887e-0e908b0656b1.png)
-
 ## How to use
+Choose an Algorithm: Select any sorting algorithm from the available options.
 
-- Navigate to the [website](https://adityaprakash.tech/Sorting-Visualizer/)
-- Click on the algorithm you want to visualize
-- Adjust speed and size of the array
+Set Array Size and Speed: Adjust the array size and animation speed to customize the experience.
 
+Sort: Hit the "Sort" button to watch the algorithm work through the array. You can pause, reset, or choose a new algorithm at any time.
+
+### Built With
+HTML/CSS: For structuring and styling the interface.
+JavaScript: Core language for implementing sorting algorithms and visualizations.
+
+### Future Improvements
+Additional Algorithms: Implement more sorting algorithms for a comprehensive library.
+
+Performance Metrics: Show time and space complexity for each algorithm during visualization.
+
+Step-by-Step Control: Allow users to step through each iteration of the algorithm.
